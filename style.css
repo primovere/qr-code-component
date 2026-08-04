@@ -46,10 +46,12 @@ main {
   height: 500px;
   padding: 15px;
   background-color: var(--white);
+  border-radius: 10px;
 }
 
 .qr-code {
   width: 288px;
+  border-radius: 10px;
 }
 
 .text {
